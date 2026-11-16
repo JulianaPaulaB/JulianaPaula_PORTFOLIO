@@ -119,32 +119,7 @@ I helped identify the organization's needs, define system features and user requ
 
 ---
 
-### 04 | SDG 3: Life Expectancy Across Countries
-**Exploring Health, Economic, and Environmental Indicators**
-
-*Data Analytics · Statistical Analysis · Regression Modeling*
-
-[View Project Repository](https://github.com/JulianaPaulaB/sdg3-life-expectancy-dashboard)
-
-An analytical project exploring how selected health, economic, and environmental indicators relate to life expectancy across countries. The project is aligned with Sustainable Development Goal 3: Good Health and Well-Being.
-
-**Project Work**
-- Integrated data from the World Bank and Our World in Data.
-- Cleaned datasets and handled missing values.
-- Explored health expenditure, GDP per capita, CO₂ emissions, and access to clean water.
-- Applied Ordinary Least Squares (OLS) and Huber robust regression.
-- Evaluated model performance using R² and RMSE.
-- Developed an interactive dashboard using Streamlit and Plotly.
-
-**My Involvement**
-
-I handled data integration and preparation, exploratory data analysis, statistical modeling, and dashboard development.
-
-**Tools:** Python · Pandas · NumPy · Statsmodels · Plotly · Streamlit · Jupyter Notebook
-
----
-
-### 05 | Bank Marketing
+### 04 | Bank Marketing
 **Term Deposit Subscription Prediction**
 
 *Business Analytics · Classification · Predictive Modeling*
@@ -172,7 +147,32 @@ A classification project that uses customer information to predict whether a cli
 
 The model identified approximately 65% of actual subscribers. However, its precision also shows that predictions would need further qualification before being used for campaign decisions.
 
-**Tools:** Python · Pandas · Scikit-learn · Matplotlib · Jupyter Notebook · Joblib
+**Tools:** Python · Pandas · Scikit-learn · Matplotlib · Jupyter Notebook · JobliB
+
+---
+
+### 05 | SDG 3: Life Expectancy Across Countries
+**Exploring Health, Economic, and Environmental Indicators**
+
+*Data Analytics · Statistical Analysis · Regression Modeling*
+
+[View Project Repository](https://github.com/JulianaPaulaB/sdg3-life-expectancy-dashboard)
+
+An analytical project exploring how selected health, economic, and environmental indicators relate to life expectancy across countries. The project is aligned with Sustainable Development Goal 3: Good Health and Well-Being.
+
+**Project Work**
+- Integrated data from the World Bank and Our World in Data.
+- Cleaned datasets and handled missing values.
+- Explored health expenditure, GDP per capita, CO₂ emissions, and access to clean water.
+- Applied Ordinary Least Squares (OLS) and Huber robust regression.
+- Evaluated model performance using R² and RMSE.
+- Developed an interactive dashboard using Streamlit and Plotly.
+
+**My Involvement**
+
+I handled data integration and preparation, exploratory data analysis, statistical modeling, and dashboard development.
+
+**Tools:** Python · Pandas · NumPy · Statsmodels · Plotly · Streamlit · Jupyter Notebook
 
 ---
 
